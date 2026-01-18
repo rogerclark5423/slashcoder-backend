@@ -1,0 +1,11 @@
+fastapi
+uvicorn[standard]
+python-socketio
+python-engineio
+google-generativeai==0.8.0
+openai>=1.0.0
+firebase-admin
+python-dotenv
+httpx
+sib_api_v3_sdk
+
